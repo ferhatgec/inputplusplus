@@ -14,6 +14,9 @@
 #include <stdio.h>
 #endif
 
+#define INPUT_PP_VERSION "0.1"
+#define INPUT_PP_STATE "alpha-1"
+
 #define INPUT_PP_SPACE 32
 #define INPUT_PP_EXCLAMATION_MARK 33
 #define INPUT_PP_QUOTATION_MARK 34
